@@ -69,6 +69,46 @@ The dataset used for this analysis is included in this repository:
 - **Loaded the final merged table** into the **Data Model** for pivot table analysis.
 
 
+---
+
+
+## 📊 Data Analysis & Dashboard Insights
+
+The analysis focused on four key business questions using Pivot Tables and Charts:
+
+### A. **Trend of Total Sales by Coffee Type** (Column Chart)
+- **Pivot Setup:**
+  - Rows: `Year` (from Order Date)
+  - Columns: `Coffee Type`
+  - Values: `Sum of Total Sales`
+- **Purpose:** Identifies yearly sales trends across different coffee types.
+
+---
+
+### B. **Top 10 Customers by Contribution** (Bar Chart)
+- **Pivot Setup:**
+  - Rows: `Customer Name`
+  - Values: `Sum of Total Sales`
+  - Sort: Descending
+  - Filter: Top 10 by Sum of Total Sales
+- **KPI:** Top 10 customers contributed **~6%** of total sales.
+- **Purpose:** Highlights key customers driving revenue.
+
+---
+
+### C. **Total Sales by Country** (Pie Chart)
+- **Pivot Setup:**
+  - Rows: `Country`
+  - Values: `Sum of Total Sales`
+- **Purpose:** Shows sales distribution across different regions.
+
+---
+
+### D. **Total Quantity Ordered by Coffee Type** (Pie Chart)
+- **Pivot Setup:**
+  - Rows: `Coffee Type`
+  - Values: `Sum of Quantity`
+- **Purpose:** Displays the demand volume for each coffee type.
 
 ---
 
