@@ -51,4 +51,11 @@ The dataset used for this analysis is included in this repository:
 - **Excel** – For data modeling and visualization.
 - **GitHub** – For project documentation and version control.
 
+  ---
+
+  ## 📊 Dashboard Preview
+Here is the interactive Coffee Shop Sales Analysis Dashboard created in Excel:
+- <a href="https://github.com/JaySpesh/Coffee-Data-Analysis/blob/main/Coffee%20Sales%20Dashboard.png">View Dashboard</a>
+
+
 
