@@ -43,7 +43,7 @@ It provides insights into revenue trends, customer contributions, and helps in m
 
    ## 📂 Dataset
 The dataset used for this analysis is included in this repository:  
-[📥 Download Dataset](.https://github.com/JaySpesh/Coffee-Data-Analysis/blob/main/coffeeOrdersData.xlsx)
+https://github.com/JaySpesh/Coffee-Data-Analysis/blob/main/coffeeOrdersData.xlsx
 
 **Columns include:**
 - `Order Date` – Date of order  
