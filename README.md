@@ -39,3 +39,19 @@ It provides insights into revenue trends, customer contributions, and helps in m
 4. **Focus on Best-Selling Coffee Types**  
    Bundle or upsell **Ara** and **Exc** with complementary products (e.g., snacks, combo offers).
 
+   ---
+
+   ## 📂 Dataset
+The dataset used for this analysis is included in this repository:  
+[📥 Download Dataset](./coffee_sales.xlsx)
+
+**Columns include:**
+- `Order Date` – Date of order  
+- `Coffee Type` – Ara, Exc, Lib, Rob  
+- `Size` – Coffee size in liters  
+- `Quantity` – Number of units sold  
+- `Sales` – Revenue generated  
+- `Country` – United States, United Kingdom, Ireland  
+- `Loyalty Card` – Yes/No  
+
+
