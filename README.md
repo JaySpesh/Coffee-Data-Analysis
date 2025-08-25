@@ -45,3 +45,10 @@ It provides insights into revenue trends, customer contributions, and helps in m
 The dataset used for this analysis is included in this repository:  
 - <a href="https://github.com/JaySpesh/Coffee-Data-Analysis/blob/main/coffeeOrdersData.xlsx">Dataset</a>
 
+---
+
+## 🛠 Tools Used
+- **Excel** – For data modeling and visualization.
+- **GitHub** – For project documentation and version control.
+
+
