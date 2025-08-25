@@ -47,6 +47,14 @@ The dataset used for this analysis is included in this repository:
 
 ---
 
+### 👤 Author
+**Dare Joseph**  
+- Email: dareyjoseph25@gmail.com  
+- LinkedIn: *(www.linkedin.com/in/joseph-boluwatife-dare-075353336)*  
+
+
+---
+
 ## 🛠 Tools Used
 - **Excel** – For data modeling and visualization.
 - **GitHub** – For project documentation and version control.
