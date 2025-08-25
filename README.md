@@ -45,13 +45,3 @@ It provides insights into revenue trends, customer contributions, and helps in m
 The dataset used for this analysis is included in this repository:  
 https://github.com/JaySpesh/Coffee-Data-Analysis/blob/main/coffeeOrdersData.xlsx
 
-**Columns include:**
-- `Order Date` – Date of order  
-- `Coffee Type` – Ara, Exc, Lib, Rob  
-- `Size` – Coffee size in liters  
-- `Quantity` – Number of units sold  
-- `Sales` – Revenue generated  
-- `Country` – United States, United Kingdom, Ireland  
-- `Loyalty Card` – Yes/No  
-
-
