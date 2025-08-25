@@ -49,9 +49,29 @@ The dataset used for this analysis is included in this repository:
 
 ## 🛠 Tools Used
 - **Excel** – For data modeling and visualization.
+- **Pivot Tables:** For summarizing and analyzing sales data.
+- **Excel Dashboard:** Interactive visuals with slicers (Year, Roast Type, Size, Loyalty Card).
 - **GitHub** – For project documentation and version control.
 
   ---
+
+
+## 🧹 Data Cleaning & Transformation Steps
+- **Removed empty/extra columns** from the orders dataset.
+- **Standardized date and price formats** for consistency.
+- **Merged datasets:**
+  - Joined `Orders` with `Products` on **Product ID**.
+  - Joined the result with `Customers` on **Customer ID**.
+- **Added calculated columns:**
+  - **Total Sales** = Quantity × Unit Price
+  - **Year** = `YEAR([Order Date])`
+  - **Month** = `TEXT([Order Date], "mmmm")`
+- **Loaded the final merged table** into the **Data Model** for pivot table analysis.
+
+
+
+---
+
 
   ## 📊 Dashboard Preview
 Here is the interactive Coffee Shop Sales Analysis Dashboard created in Excel:
