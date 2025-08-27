@@ -20,7 +20,7 @@ It provides insights into revenue trends, customer contributions, and helps in m
 
 ## 🔎 Key Insights
 - Sales peaked in **2021** but dropped noticeably in **2022**
-- **Ara** and **Exc** are the top-selling coffee types, making up more than half of total orders.
+- **Ara** and **Rob** are the top-selling coffee types, making up more than half of total orders.
 - **United States dominates** sales (79%), suggesting an opportunity to grow market share in the UK and Ireland.
 - **Top 10 customers contribute only 8%** of total sales, indicating a broad customer base rather than dependence on a few clients.
 
