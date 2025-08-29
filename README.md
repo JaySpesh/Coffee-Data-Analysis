@@ -20,7 +20,7 @@ It provides insights into revenue trends, customer contributions, and helps in m
 
 ## 🔎 Key Insights
 - Sales peaked in **2021** but dropped noticeably in **2022**
-- **Arabica** and **Robusta** are the top-selling coffee types, making up more than half of total orders.
+- **Arabica** and **Exclesa** generate the highest sales revenue, despite **Arabica** and **Robusta** being the most ordered coffee types, indicating a potential higher profit margin or pricing advantage for Exclesa.
 - **United States dominates** sales (79%), suggesting an opportunity to grow market share in the UK and Ireland.
 - **Top 10 customers contribute only 8%** of total sales, indicating a broad customer base rather than dependence on a few clients.
 
@@ -36,8 +36,8 @@ It provides insights into revenue trends, customer contributions, and helps in m
 3. **Enhance Loyalty Programs**  
    While sales are spread across many customers, loyalty programs could turn occasional buyers into repeat customers.
 
-4. **Focus on Best-Selling Coffee Types**  
-   Bundle or upsell **Arabica** and **Exclesa** with complementary products (e.g., snacks, combo offers).
+4. **Boost Exclesa Sales with Pricing Analysis and Promotions**  
+   Investigate **pricing** or **cost structures** to understand why **Exclesa** yields higher sales despite lower order volume, and consider targeted promotions to increase Exclesa orders while maintaining **Arabica** and **Robusta’s** strong demand.
 
    ---
 
