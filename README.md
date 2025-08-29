@@ -37,7 +37,7 @@ It provides insights into revenue trends, customer contributions, and helps in m
    While sales are spread across many customers, loyalty programs could turn occasional buyers into repeat customers.
 
 4. **Focus on Best-Selling Coffee Types**  
-   Bundle or upsell **Ara** and **Exc** with complementary products (e.g., snacks, combo offers).
+   Bundle or upsell **Arabica** and **Exclesa** with complementary products (e.g., snacks, combo offers).
 
    ---
 
@@ -91,7 +91,7 @@ The analysis focused on four key business questions using Pivot Tables and Chart
   - Values: `Sum of Total Sales`
   - Sort: Descending
   - Filter: Top 10 by Sum of Total Sales
-- **KPI:** Top 10 customers contributed **~6%** of total sales.
+- **KPI:** Top 10 customers contributed **8%** of total sales.
 - **Purpose:** Highlights key customers driving revenue.
 
 ---
