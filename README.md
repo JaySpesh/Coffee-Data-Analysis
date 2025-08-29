@@ -20,6 +20,8 @@ It provides insights into revenue trends, customer contributions, and helps in m
 
 ## 🔎 Key Insights
 - Sales peaked in **2021** but dropped noticeably in **2022**
+- Sales Activity Halted in Q3 of 2022, with no sales recorded after August 2022.
+- **UK** contributed only **2%** to total annual revenue in **2022** and sales were confined to just 3 months. **January,** **March,** & **June**
 - **Arabica** and **Exclesa** generate the highest sales revenue, despite **Arabica** and **Robusta** being the most ordered coffee types, indicating a potential higher profit margin or pricing advantage for Exclesa.
 - **United States dominates** sales (79%), suggesting an opportunity to grow market share in the UK and Ireland.
 - **Top 10 customers contribute only 8%** of total sales, indicating a broad customer base rather than dependence on a few clients.
@@ -38,6 +40,10 @@ It provides insights into revenue trends, customer contributions, and helps in m
 
 4. **Boost Exclesa Sales with Pricing Analysis and Promotions**  
    Investigate **pricing** or **cost structures** to understand why **Exclesa** yields higher sales despite lower order volume, and consider targeted promotions to increase Exclesa orders while maintaining **Arabica** and **Robusta’s** strong demand.
+
+5. **Focus on Best-Selling Coffee Types**
+    Bundle or upsell **Arabica** and **Excelsa** with complementary products (e.g., snacks, combo offers
+
 
    ---
 
