@@ -14,7 +14,7 @@ It provides insights into revenue trends, customer contributions, and helps in m
   - United States: 79%  
   - United Kingdom: 15%  
   - Ireland: 6%  
-- **Orders by Coffee Type:** Fairly balanced, with Ara (27%) leading slightly.
+- **Orders by Coffee Type:** Fairly balanced, with Arabica (27%) leading slightly.
 
 ---
 
